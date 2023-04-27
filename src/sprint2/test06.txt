@@ -1,0 +1,7 @@
+James has done test6
+
+James added test to the smoke suite
+
+....
+
+...
